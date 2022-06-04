@@ -4,3 +4,5 @@ nihao! --master test
 nihao! --hotfix test
 3333333
 创建新分支!`
+
+哈哈嗨！
